@@ -1,0 +1,16 @@
+<html>
+<head>
+<h1>Module</h1>
+</head>
+<body>
+<h2>Document</h2>
+<button onclick="demo()">Click me</button>
+<script>
+
+function demo(){
+alert("OKK");
+}
+</script>
+</body>
+</html>
+

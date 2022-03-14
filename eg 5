@@ -1,0 +1,16 @@
+<html>
+<head>
+<title>info</title>
+</head>
+<style>
+body{
+style=background-image:url('image.png');
+}
+</style>
+<body>
+<h1>Registration form</h1>
+<p>We can add JavaScript directly to our HTML file by writing the code inside.</p>
+</body>
+</html>
+
+
